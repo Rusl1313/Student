@@ -1,4 +1,3 @@
-
     public class Student {
         protected final String studying;
         protected Student(String work) {
@@ -15,4 +14,3 @@
         }
 
     }
-}
