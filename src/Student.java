@@ -1,6 +1,5 @@
-public class Students {
 
-    public static class Student {
+    public class Student {
         protected final String studying;
         protected Student(String work) {
             this.studying = work;
